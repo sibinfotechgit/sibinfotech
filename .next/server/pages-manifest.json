@@ -1,0 +1,22 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/about-us": "pages/about-us.html",
+  "/apply-now": "pages/apply-now.html",
+  "/career": "pages/career.html",
+  "/contact-us": "pages/contact-us.html",
+  "/digital-marketing-services": "pages/digital-marketing-services.html",
+  "/graphic-designing-services": "pages/graphic-designing-services.html",
+  "/home": "pages/home.js",
+  "/pay-per-click-ppc-management-services": "pages/pay-per-click-ppc-management-services.html",
+  "/portfolio": "pages/portfolio.html",
+  "/resource": "pages/resource.html",
+  "/search-engine-optimization-seo-services": "pages/search-engine-optimization-seo-services.html",
+  "/social-media-optimization-services": "pages/social-media-optimization-services.html",
+  "/software-development-services": "pages/software-development-services.html",
+  "/terms-and-conditions": "pages/terms-and-conditions.html",
+  "/website-designing-services": "pages/website-designing-services.html",
+  "/website-development-services": "pages/website-development-services.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}

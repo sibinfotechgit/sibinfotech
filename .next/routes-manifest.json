@@ -1,0 +1,1 @@
+{"version":3,"pages404":true,"basePath":"","redirects":[{"source":"/:path+/","destination":"/:path+","internal":true,"statusCode":308,"regex":"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"}],"rewrites":[{"source":"/","destination":"/home","regex":"^/$"}],"headers":[],"dynamicRoutes":[],"dataRoutes":[{"page":"/home","dataRouteRegex":"^/_next/data/wC0LtkNuLkuOmtBy3goYa/home.json$"}]}
